@@ -86,7 +86,7 @@ Une fois que vous savez écrire la structure de mémoire, VS Code peut la géné
 1. Quelle est la différence entre le `<head>` et le `<body>` ?
 La difference entre le <head> et le <body> est que le <head>permet de donner les informations du site dans le navigateur tandis que le <body> donne le contenu de la page.
 2. À quoi sert l'attribut `lang="fr"` ? (Pensez aux lecteurs d'écran et aux moteurs de recherche.)
-`lang="fr"` indique que la page est en français ,ça permet aux utilisateurs qui font des recherches de site web en français de tomber sur la page et aide les moteurs de recherche à  identifier la langue du contenu.
+`lang="fr"` indique que la page est en français ,ça permet aux utilisateurs qui font des recherches de site web en français de tomber sur la page et aide les moteurs de recherche à  identifier la langue du contenu. 
 3. À quoi sert la ligne `<!DOCTYPE html>` ?
 la ligne `<!DOCTYPE html` permet d'indiquer que le document est écrit en la dernière version de html
 4. Pourquoi est-il utile d'écrire des commentaires dans son code, alors qu'ils ne s'affichent pas ?
